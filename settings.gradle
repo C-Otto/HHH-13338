@@ -1,0 +1,8 @@
+rootProject.name = 'something'
+include 'subproject'
+
+dependencyResolutionManagement {
+    repositories {
+        mavenCentral()
+    }
+}

@@ -1,0 +1,4 @@
+subprojects {
+    group 'com.something'
+    version '1.0-SNAPSHOT'
+}
